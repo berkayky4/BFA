@@ -1,9 +1,9 @@
-# Exploit Title: Instagram-clone Script 2.0 - Cross-Site Scripting
-# Date: 2018-07-10
-# Exploit Author: L0RD
-# Version: 2.0
-# CVE: CVE-2018-13849
-# Tested on: Kali linux
+# Exploit Title: Instagram-clone Script 1.0 - Cross-Site Scripting
+# Date: 2021-07-10
+# Exploit Author: Morozov
+# Version: 1.0
+# CVE: CVE-2021-12984
+# Tested on: Kali Linux
 
 # POC : Persistent Cross site scripting :
 # vulnerable file : edit_requests.php
